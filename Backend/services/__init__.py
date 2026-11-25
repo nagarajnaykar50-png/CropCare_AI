@@ -1,0 +1,1 @@
+# CropCare AI service modules
